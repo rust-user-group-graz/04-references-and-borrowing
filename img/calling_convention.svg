@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="320"
+   viewBox="0 0 79.374998 84.66667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="calling_convention.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path877"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path871"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path877-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.095"
+     inkscape:cx="150"
+     inkscape:cy="200"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-212.33333)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#d6d6ff;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1825-2"
+       width="26.458334"
+       height="19.701674"
+       x="4.0413685"
+       y="244.54692"
+       ry="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4.0539978,225.56883 v 67.44033"
+       id="path819"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.512332,225.56883 v 67.81921"
+       id="path819-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot836"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458334,0,0,0.26458334,0,222.91668)"><flowRegion
+         id="flowRegion838"><rect
+           id="rect840"
+           width="232.45824"
+           height="64.916466"
+           x="38.663483"
+           y="248.68735" /></flowRegion><flowPara
+         id="flowPara842"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="6.0746813"
+       y="276.23865"
+       id="text846"><tspan
+         sodipodi:role="line"
+         id="tspan844"
+         x="6.0746813"
+         y="276.23865"
+         style="stroke-width:0.26458335">stack</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 17.062152,280.3344 v 10.77782"
+       id="path848"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1158"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458334,0,0,0.26458334,-3.0310263,228.78674)"><flowRegion
+         id="flowRegion1160"><rect
+           id="rect1162"
+           width="101.67065"
+           height="249.16467"
+           x="191.88544"
+           y="19.570406" /></flowRegion><flowPara
+         id="flowPara1164"
+         style="text-align:end;text-anchor:end">rdi</flowPara><flowPara
+         id="flowPara1166"
+         style="text-align:end;text-anchor:end">rsi</flowPara><flowPara
+         id="flowPara1168"
+         style="text-align:end;text-anchor:end">rdx</flowPara><flowPara
+         id="flowPara1170"
+         style="text-align:end;text-anchor:end">rcx</flowPara><flowPara
+         id="flowPara1172"
+         style="text-align:end;text-anchor:end">r8</flowPara><flowPara
+         id="flowPara1174"
+         style="text-align:end;text-anchor:end">r9</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1158-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458334,0,0,0.26458334,-38.145934,220.74262)"><flowRegion
+         id="flowRegion1160-7"><rect
+           id="rect1162-5"
+           width="229.11696"
+           height="54.892597"
+           x="191.88544"
+           y="19.570406" /></flowRegion><flowPara
+         id="flowPara1174-1"
+         style="text-align:end;text-anchor:end">registers:</flowPara></flowRoot>    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-9-1"
+       width="20.080549"
+       height="8.1458836"
+       x="56.51601"
+       y="233.3018"
+       ry="0.52095765" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-9-1-2"
+       width="20.080549"
+       height="8.1458836"
+       x="56.51601"
+       y="241.83168"
+       ry="0.52095765" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-9-1-7"
+       width="20.080549"
+       height="8.1458836"
+       x="56.51601"
+       y="250.38548"
+       ry="0.52095765" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-9-1-2-0"
+       width="20.080549"
+       height="8.1458836"
+       x="56.51601"
+       y="259.10477"
+       ry="0.52095765" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-9-1-2-0-9"
+       width="20.080549"
+       height="8.1458836"
+       x="56.51601"
+       y="267.82401"
+       ry="0.52095765" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-9-1-2-0-9-3"
+       width="20.080549"
+       height="8.1458836"
+       x="56.51601"
+       y="276.29071"
+       ry="0.52095765" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="38.574245"
+       y="247.40488"
+       id="text846-6"><tspan
+         sodipodi:role="line"
+         id="tspan844-0"
+         x="38.574245"
+         y="247.40488"
+         style="stroke-width:0.26458335">rbp</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6)"
+       d="M 37.66478,244.81907 H 31.623766"
+       id="path848-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#d6ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1825"
+       width="26.458334"
+       height="17.302114"
+       x="4.0413685"
+       y="227.21065"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666718px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="8.4421329"
+       y="233.70097"
+       id="text846-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan844-0-8"
+         x="8.4421329"
+         y="233.70097"
+         style="stroke-width:0.26458335">_sum</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.9782222,236.24057 H 30.436556"
+       id="path1845"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="5.3994765"
+       y="242.1676"
+       id="text846-6-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan844-0-8-9"
+         x="5.3994765"
+         y="242.1676"
+         style="stroke-width:0.26458335">return addr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#008383;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="7.7670078"
+       y="221.90636"
+       id="text1867"><tspan
+         sodipodi:role="line"
+         id="tspan1865"
+         x="7.7670078"
+         y="221.90636"
+         style="fill:#008383;fill-opacity:1;stroke-width:0.26458335">main stack frame</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="5.2671328"
+       y="249.57591"
+       id="text846-6-1-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan844-0-8-9-0"
+         x="5.2671328"
+         y="249.57591"
+         style="stroke-width:0.26458335">stored rbp</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.9150757,251.73668 H 30.436556"
+       id="path1968"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="15.884229"
+       y="256.45505"
+       id="text846-6-1-7-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan844-0-8-9-0-7"
+         x="15.884229"
+         y="256.45505"
+         style="stroke-width:0.26458335">a</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.9150756,257.55749 H 30.436555"
+       id="path1968-5"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="15.947618"
+       y="262.88425"
+       id="text846-6-1-7-2-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan844-0-8-9-0-7-2"
+         x="15.947618"
+         y="262.88425"
+         style="stroke-width:0.26458335">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#4c4c7d;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="251.00888"
+       y="-34.754845"
+       id="text1867-2"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan1865-8"
+         x="251.00888"
+         y="-34.754845"
+         style="fill:#4c4c7d;fill-opacity:1;stroke-width:0.26458335">adder stack frame</tspan></text>
+  </g>
+</svg>
